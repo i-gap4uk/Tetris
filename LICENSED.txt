@@ -1,0 +1,6 @@
+Create by Igor Gapchuk (c)
+
+space   - rotate
+arrows - move (arrow down - drop figure)
+        p - pause
+     esc - exit
